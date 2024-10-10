@@ -1,6 +1,5 @@
 {
   "StorageContext": "llama_index.core",
-  "ServiceContext": "llama_index.core",
   "ComposableGraph": "llama_index.core",
   "# indicesSummaryIndex": "llama_index.core",
   "VectorStoreIndex": "llama_index.core",
@@ -439,6 +438,7 @@
   "TableParams": "llama_index.vector_stores.baiduvectordb",
   "TableField": "llama_index.vector_stores.baiduvectordb",
   "TimescaleVectorStore": "llama_index.vector_stores.timescalevector",
+  "TablestoreVectorStore": "llama_index.vector_stores.tablestore",
   "DashVectorStore": "llama_index.vector_stores.dashvector",
   "JaguarVectorStore": "llama_index.vector_stores.jaguar",
   "FaissVectorStore": "llama_index.vector_stores.faiss",
